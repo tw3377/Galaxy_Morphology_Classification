@@ -1,0 +1,1 @@
+This repository contains codes written for the Final Project of the course IMGS-789 (Advanced Robust ML for Interdisciplinary Imaging Science Applications. We implement a CNN to predict the morphology of CANDELS galaxies (GOODS-S). 
